@@ -14,8 +14,7 @@ for now:
     (same handle pretty much everywhere)
 ```
 
-<img src="https://www.cameronsworld.net/img/content/31/rainbow/1.png" height=33>
-<img src="https://www.cameronsworld.net/img/content/31/rainbow/11.gif" height=33>
+<img src="https://www.cameronsworld.net/img/content/31/rainbow/1.png" height=33><img src="https://www.cameronsworld.net/img/content/31/rainbow/11.gif" height=33>
 <img src="https://cyber.dabamos.de/88x31/lovelyday.gif">
 <img src="https://cyber.dabamos.de/88x31/angelcat3.gif"> 
 <img src="https://www.cameronsworld.net/img/content/31/2.png" height=33>
